@@ -18,6 +18,7 @@ para visualizar o conteúdo a chave publica:
 cat id_ed25519.pub
 ```
 Resultado:
+
 <img src="Cat.png"></img>
 
 No Git bash ele lhe dará o resultado da shave criptografada com o email, iremos copiar e leva-lo para o Git, segue imagem abaixo:
